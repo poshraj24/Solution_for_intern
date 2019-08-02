@@ -1,0 +1,9 @@
+Algorithm: 
+The algorithm is pretty simple: 
+
+Here we have to check for 2 conditions: 
+1. The number is multiple of 3 OR,  
+2. The number is multiple of 5 
+
+So, we do the checking by simple comparision, if number%3==0 or number%5==0, then these two numbers are to be added to a single variable that we declare at beginning of program. 
+3. We continue to loop this program till we reach the counter extreme value, 1000. 
